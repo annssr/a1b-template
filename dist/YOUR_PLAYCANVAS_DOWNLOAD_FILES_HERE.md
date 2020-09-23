@@ -1,0 +1,1 @@
+Extract the .zip file you download from Playcanvas in this directory.  It should have an index.html, and bunch of other files, and subdirectories.

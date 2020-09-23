@@ -1,0 +1,8 @@
+{
+    "name": "a1b",
+    "version": "1.0.0",
+    "description": "Sample for Assignment 1(b), CS 4803/8803 3DUI, Fall 2020",
+    "scripts": {
+        "start": "cd dist && python -m SimpleHTTPServer 8080"
+    }
+}
